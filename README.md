@@ -9,9 +9,4 @@ Components:
 -mirrors
 
 Project description:
-Light source produces light which reflects thriugh each
-Miror to cover the whole gate and recieved finally 
-With LDR, so when person passes thriugh the gate,
-Light is cut, so LDR reading changes, order servo motor
-To grab the pump so sanitizer liquid goes out on the 
-Person
+Light source produces light which reflects through each Miror to cover the whole gate and received finally With LDR, so when person passes through the gate, Light is cut, so LDR reading changes, order servo motor to grab the pump so sanitizer liquid goes out on the Person.
