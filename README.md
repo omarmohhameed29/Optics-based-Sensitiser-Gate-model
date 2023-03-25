@@ -1,4 +1,4 @@
-# Optics-based-Sensitiser-Gate-model
+# Optics-based-Sensitizer-Gate-model
 Use optics to control sesitizer gate model
 Components:
 -Arduino
